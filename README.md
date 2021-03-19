@@ -1,6 +1,6 @@
 # Microprofile Marketing Repository 
 
-MicroProfilers who contribute to this space are grounded #OSSContributors chossing to simplify MP messages, create, maintain processes that scale while brainstorm...
+MicroProfilers contributing to this space are grounded #OSSContributors, who choose to simplify the project's messages, create, brainstorm and maintain processes that scale while beyond 1 person. 
 
 ## Important Data:
 
