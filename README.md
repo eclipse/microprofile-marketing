@@ -1,4 +1,4 @@
-# Microprofile Marketing Repository 
+# MicroProfile Marketing Repository 
 
 MicroProfilers contributing to this space are grounded #OSSContributors, who choose to simplify the project's messages, create, brainstorm and maintain processes that scale while beyond 1 person. 
 
