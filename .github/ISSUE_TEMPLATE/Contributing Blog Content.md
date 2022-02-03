@@ -1,6 +1,6 @@
 ---
  name: Contributing Blog Content 
- about: Everyone in the MicroProfile community is encouraged to submit focused on the MicroProfile technology blogs, videos, event sessions... to the MicroProfile Blog
+ about: Everyone in the MicroProfile community is encouraged to submit focused on the MicroProfile technology blogs, videos, event sessions
  title: "[Blog Contribution] Name of blog"
  labels: Blog
  ---
