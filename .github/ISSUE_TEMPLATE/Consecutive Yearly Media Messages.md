@@ -1,9 +1,11 @@
 ---
 name: Consecutive Yearly Media Messages
-about: https://docs.google.com/spreadsheets/d/1-j0SmFHSRw4pXMsdsY1x0R2HffIUZ3SQni_5zpoBdE8/edit#gid=0
+about: [Yearly Spreadsheet Media Inventory](https://docs.google.com/spreadsheets/d/1-j0SmFHSRw4pXMsdsY1x0R2HffIUZ3SQni_5zpoBdE8/edit#gid=0) 
 title: "[Social Media]YEAR - Task]"
 labels: Social Media
 ---
+
+**[Yearly Spreadsheet Media Inventory](https://docs.google.com/spreadsheets/d/1-j0SmFHSRw4pXMsdsY1x0R2HffIUZ3SQni_5zpoBdE8/edit#gid=0)**
 
 **Media Description**
 280 characters 
