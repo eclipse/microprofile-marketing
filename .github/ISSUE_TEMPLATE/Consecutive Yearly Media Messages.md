@@ -1,6 +1,6 @@
 ---
 name: Consecutive Yearly Media Messages
-about: [Yearly Spreadsheet Media Inventory](https://docs.google.com/spreadsheets/d/1-j0SmFHSRw4pXMsdsY1x0R2HffIUZ3SQni_5zpoBdE8/edit#gid=0) 
+about: MicroProfile media pushes constant messages throughout the year
 title: "[Social Media]YEAR - Task]"
 labels: Social Media
 ---
