@@ -3,7 +3,7 @@
  about: Everyone in the MicroProfile community is encouraged to submit focused on the MicroProfile technology blogs, videos, event sessions
  title: "[Blog Contribution] Name of blog"
  labels: Blog
- ---
+---
 
  **[MicroProfile.io WordPress](https://github.com/microprofile/wpsite)**
 
