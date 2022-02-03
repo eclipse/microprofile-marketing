@@ -1,5 +1,5 @@
 ---
-name: MicroProfiler Social Media Activity Highlight
+name: MicroProfiler Activity Highlight
 about: The arrival of session/activities tickets 2 weeks before the event have a greater chance to be processed. MicroProfile social media is 100% run by volunteer MicroProfilers.
 title: "[Social Media] Name of Activity - Talk]"
 labels: Sessions
