@@ -15,7 +15,7 @@ labels: Social Media
 PDT
 
 **Schedule**
-Frequency per month
+Frequency 
 
 **Design Card**
 Minimal requirements
