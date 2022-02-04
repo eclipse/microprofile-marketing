@@ -5,7 +5,7 @@ title: "[Social Media]YEAR - Task]"
 labels: Social Media
 ---
 
-**[Yearly Spreadsheet Media Inventory](https://docs.google.com/spreadsheets/d/1-j0SmFHSRw4pXMsdsY1x0R2HffIUZ3SQni_5zpoBdE8/edit#gid=0)**
+Inventory sheet **[Yearly Spreadsheet Media Inventory](https://docs.google.com/spreadsheets/d/1-j0SmFHSRw4pXMsdsY1x0R2HffIUZ3SQni_5zpoBdE8/edit#gid=31174810)**
 
 **Media Description**
 280 characters 
