@@ -16,4 +16,5 @@ assignees: ''
 - [ ] Announce release on social media using Hootsuite (Twitter, Linkedin, Facebook) [example here](https://github.com/eclipse/microprofile-marketing/issues/542)<br/>
 - [ ] Write an update to the MP Community Forum about the release<br/>
 - [ ] Update the MP Calendar with the Release Date (committer)
+- [ ] Translate the release blog in other lauguages such as (German,Russian, Spanish, etc)
 
