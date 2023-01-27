@@ -11,7 +11,8 @@
  **Product Version and download URL**
  URL:
  
- **Java runtime used to run the implementation**
+ **Link to CCR (GH issue in the eclipse/microprofile repository)**
+ Link:
 
  **Media Description**
  280 chararters includes the organization's name & URL or blog
