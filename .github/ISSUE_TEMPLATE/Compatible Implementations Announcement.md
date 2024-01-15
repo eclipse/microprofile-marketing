@@ -13,6 +13,8 @@
  
  **Link to CCR (GH issue in the eclipse/microprofile repository)**
  Link:
+ 
+ **For the Marketing Team: update the corresponding compatible page to include this particular version of the specified product**
 
  **Media Description**
  280 chararters includes the organization's name & URL or blog
